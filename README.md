@@ -17,6 +17,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
