@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
