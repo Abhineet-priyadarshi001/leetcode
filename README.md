@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
