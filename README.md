@@ -54,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
