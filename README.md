@@ -52,6 +52,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
