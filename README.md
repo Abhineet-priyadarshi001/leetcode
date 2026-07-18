@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
