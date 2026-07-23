@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -129,12 +130,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0946-validate-stack-sequences) |
 ## Number Theory
 |  |
 | ------- |
