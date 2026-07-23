@@ -7,7 +7,4 @@ class Solution:
             while arr and arr[-1] == popped[j] and j<len(pushed):
                 arr.pop()
                 j += 1
-        if len(arr) == 0:
-            return True
-        else:
-            return False
+        return len(arr) == 0
