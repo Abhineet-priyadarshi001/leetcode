@@ -16,6 +16,7 @@
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -69,6 +70,7 @@
 | [0069-sqrtx](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
