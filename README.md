@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
@@ -97,6 +98,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0278-first-bad-version) |
