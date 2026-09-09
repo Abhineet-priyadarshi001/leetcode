@@ -169,4 +169,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
