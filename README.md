@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -103,6 +104,7 @@
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
