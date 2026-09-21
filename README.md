@@ -24,6 +24,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1920-build-array-from-permutation](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1920-build-array-from-permutation](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
