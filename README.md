@@ -83,6 +83,7 @@
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2351-first-letter-to-appear-twice](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0136-single-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
