@@ -34,6 +34,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
