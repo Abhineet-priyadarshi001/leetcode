@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -43,6 +44,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +83,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1051-height-checker) |
@@ -119,6 +123,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -237,4 +242,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
