@@ -1,7 +1,7 @@
 class Solution:
     def findDifference(self, nums1: list[int], nums2: list[int]) -> list[list[int]]:
-        d1 = {}
-        d2 = {}
+        d1 = Counter(nums1)
+        d2 = Counter(nums2)
         answer = []
         arr1 = []
         arr2 = []
