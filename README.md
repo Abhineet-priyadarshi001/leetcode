@@ -86,6 +86,7 @@
 | [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -129,6 +130,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
