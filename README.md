@@ -36,6 +36,7 @@
 | [1920-build-array-from-permutation](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
