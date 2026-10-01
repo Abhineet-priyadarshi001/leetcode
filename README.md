@@ -255,4 +255,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
