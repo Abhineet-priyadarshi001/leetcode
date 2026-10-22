@@ -100,6 +100,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -180,6 +182,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
