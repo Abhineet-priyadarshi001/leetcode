@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@
 | [0383-ransom-note](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -198,6 +200,7 @@
 | [0020-valid-parentheses](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -271,5 +274,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
