@@ -18,6 +18,7 @@
 | [0414-third-maximum-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -235,6 +237,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
