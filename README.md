@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -105,6 +106,7 @@
 | [0009-palindrome-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/0349-intersection-of-two-arrays) |
