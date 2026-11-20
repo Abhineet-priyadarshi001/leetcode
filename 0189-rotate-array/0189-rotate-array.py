@@ -3,9 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # for i in range(k+1):
-        #     x = nums.pop(0)
-        #     nums.append(x)
+        # for i in range(k):
+        #     x = nums.pop(-1)
+        #     nums.insert(0,x)
         # return nums
         n = len(nums)
         k %= n
