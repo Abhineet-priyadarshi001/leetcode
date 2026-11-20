@@ -7,6 +7,7 @@ class Solution:
         #     x = nums.pop(0)
         #     nums.append(x)
         # return nums
-        k = k % len(nums)
+        n = len(nums)
+        k %= n
         nums[:] = nums[-k:] + nums[:-k]
         return nums
