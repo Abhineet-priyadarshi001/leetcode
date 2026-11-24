@@ -198,6 +198,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhineet-priyadarshi001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
